@@ -1,6 +1,10 @@
 Russian Texts Sentiment Classification
+
+
 Project Overview
+
 This project aims to classify the sentiment of texts in Russian using classical Machine Learning techniques. The dataset consists of nearly 290,458 records, making it a robust benchmark for evaluating different Natural Language Processing (NLP) workflows.
+
 
 Tech Stack
 
@@ -11,6 +15,7 @@ Environment: Google Colab / Jupyter Notebook
 NLP Libraries: NLTK, Pymystem3 (Mystem)/Pymorphy2, Scikit-learn
 
 ML Algorithms: Logistic Regression, Linear SVM, Random Forest
+
 
 Workflow & Key Features
 1. Data Cleaning & Analysis
